@@ -1,5 +1,5 @@
 # ✋ Hand Gesture Volume Control using AI 🤖🎚️
-[📹 Click here to watch the demo video](https://github.com/debanganghosh08/hand_gesture_volume_control/blob/main/images/for%20git.mp4)
+![Demo](https://github.com/debanganghosh08/hand_gesture_volume_control/blob/main/images/for%20git.mp4)
 
 
 ## 📌 Overview
