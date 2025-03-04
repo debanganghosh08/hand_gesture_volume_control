@@ -1,7 +1,4 @@
-<div align="center">
-  <h1>✋Gesture Volume Control Using OpenCV and MediaPipe🤖🎚️</h1>
-  <img alt="output" src="images/for git.mp4" />
- </div>
+# ✋ Hand Gesture Volume Control using AI 🤖🎚️
 
 ## 📌 Overview
 This project is an **AI-powered Hand Gesture Volume Control System** that utilizes **MediaPipe for real-time hand tracking** and **Pycaw for audio control**. By simply moving your fingers, you can **increase, decrease, or mute the system volume**—all without touching the keyboard! 🚀
@@ -108,9 +105,15 @@ pip install opencv-python mediapipe numpy pycaw comtypes
    ```
 2. **Run the script**:
    ```bash
-   python main.py
+   main.py
    ```
 3. **Use hand gestures** to control system volume! 🖐️🎚️
 
+## 🎯 Future Enhancements
+🔹 Add **gesture support for play/pause music** 🎵  
+🔹 Improve **gesture recognition for multi-hand control** ✋🤚  
+🔹 Implement **AI-based hand gesture prediction** 🧠  
 
 📢 **Let’s collaborate!** Fork the repo, experiment, and share your ideas. 🚀
+
+
