@@ -1,5 +1,7 @@
-# ✋ Hand Gesture Volume Control using AI 🤖🎚️
-<video src="https://github.com/debanganghosh08/hand_gesture_volume_control/blob/main/images/for%20git.mp4" controls width="700"></video>
+<div align="center">
+  <h1>✋Gesture Volume Control Using OpenCV and MediaPipe🤖🎚️</h1>
+  <img alt="output" src="images/for git.mp4" />
+ </div>
 
 ## 📌 Overview
 This project is an **AI-powered Hand Gesture Volume Control System** that utilizes **MediaPipe for real-time hand tracking** and **Pycaw for audio control**. By simply moving your fingers, you can **increase, decrease, or mute the system volume**—all without touching the keyboard! 🚀
